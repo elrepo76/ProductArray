@@ -1,0 +1,15 @@
+C:\dev\C#\Razberi-Code-Sample\ProductArray\bin\Debug\net6.0\ProductArray.exe
+C:\dev\C#\Razberi-Code-Sample\ProductArray\bin\Debug\net6.0\ProductArray.deps.json
+C:\dev\C#\Razberi-Code-Sample\ProductArray\bin\Debug\net6.0\ProductArray.runtimeconfig.json
+C:\dev\C#\Razberi-Code-Sample\ProductArray\bin\Debug\net6.0\ProductArray.dll
+C:\dev\C#\Razberi-Code-Sample\ProductArray\bin\Debug\net6.0\ProductArray.pdb
+C:\dev\C#\Razberi-Code-Sample\ProductArray\obj\Debug\net6.0\ProductArray.csproj.AssemblyReference.cache
+C:\dev\C#\Razberi-Code-Sample\ProductArray\obj\Debug\net6.0\ProductArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C#\Razberi-Code-Sample\ProductArray\obj\Debug\net6.0\ProductArray.AssemblyInfoInputs.cache
+C:\dev\C#\Razberi-Code-Sample\ProductArray\obj\Debug\net6.0\ProductArray.AssemblyInfo.cs
+C:\dev\C#\Razberi-Code-Sample\ProductArray\obj\Debug\net6.0\ProductArray.csproj.CoreCompileInputs.cache
+C:\dev\C#\Razberi-Code-Sample\ProductArray\obj\Debug\net6.0\ProductArray.dll
+C:\dev\C#\Razberi-Code-Sample\ProductArray\obj\Debug\net6.0\refint\ProductArray.dll
+C:\dev\C#\Razberi-Code-Sample\ProductArray\obj\Debug\net6.0\ProductArray.pdb
+C:\dev\C#\Razberi-Code-Sample\ProductArray\obj\Debug\net6.0\ProductArray.genruntimeconfig.cache
+C:\dev\C#\Razberi-Code-Sample\ProductArray\obj\Debug\net6.0\ref\ProductArray.dll
